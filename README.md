@@ -1,6 +1,3 @@
-# streetspecx.com
-
-STREETSPECX Website Documentation
 **1. Project Overview**
 STREETSPECX is a black, blue and gold themed t-shirt business website designed to showcasestreetwear products in a modern and minimal style. The website focuses on clean layout,responsive design, and easy navigation for users.
 Live site: https://zhaidle-git.github.io/streetspecx.com/
